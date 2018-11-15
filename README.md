@@ -5,4 +5,5 @@ Also this plugin will be constantly updated API wise, if you have any inquires p
 [DBN]neb16#2745
 
 And feel free to join my Discord Community:
-<iframe src="https://discordapp.com/widget?id=302647351430873088&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+
+https://discordapp.com/api/guilds/302647351430873088/widget.json
