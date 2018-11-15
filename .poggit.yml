@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/DeveloperNeb101/NoFallDamage
+branches:
+- master
+projects:
+  NoFallDamage:
+    path: ""
+...
