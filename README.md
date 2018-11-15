@@ -6,4 +6,4 @@ Also this plugin will be constantly updated API wise, if you have any inquires p
 
 And feel free to join my Discord Community:
 
-https://discordapp.com/api/guilds/302647351430873088/widget.json
+https://discord.gg/rErk6fq
