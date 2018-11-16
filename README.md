@@ -1,6 +1,7 @@
 [![](https://poggit.pmmp.io/shield.state/NoFallDamage)](https://poggit.pmmp.io/p/NoFallDamage)
 [![](https://poggit.pmmp.io/shield.api/NoFallDamage)](https://poggit.pmmp.io/p/NoFallDamage)
 [![](https://poggit.pmmp.io/shield.dl.total/NoFallDamage)](https://poggit.pmmp.io/p/NoFallDamage)
+[![HitCount](http://hits.dwyl.io/DeveloperNeb101/{project}.svg)](http://hits.dwyl.io/DeveloperNeb101/{project})
 
 # NoFallDamage
 A great, simple but yet very useful plugin to prevent player's from taking damage when they jump from a high area.
