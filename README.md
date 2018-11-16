@@ -3,10 +3,10 @@
 [![](https://poggit.pmmp.io/shield.dl.total/NoFallDamage)](https://poggit.pmmp.io/p/NoFallDamage)
 
 # NoFallDamage
-A great, simple but yet very usefull plugin to prevent player's from taking damage when they jump from a high area.
+A great, simple but yet very useful plugin to prevent player's from taking damage when they jump from a high area.
 
 ## How to Install?
-Just intall the .zip file, upload it to your plugins folder, unzip it then restart server. It's that easy!
+Just install the .zip file, upload it to your plugins folder, unzip it then restart server. It's that easy!
 
 Also this plugin will be constantly updated API wise, if you have any inquires please contact me via discord
 [DBN]neb16#2745
