@@ -1,20 +1,19 @@
+### General
+#### NoFallDamage
 [![](https://poggit.pmmp.io/shield.state/NoFallDamage)](https://poggit.pmmp.io/p/NoFallDamage)
 [![](https://poggit.pmmp.io/shield.api/NoFallDamage)](https://poggit.pmmp.io/p/NoFallDamage)
 [![](https://poggit.pmmp.io/shield.dl.total/NoFallDamage)](https://poggit.pmmp.io/p/NoFallDamage)
-[![HitCount](http://hits.dwyl.io/DeveloperNeb101/{project}.svg)](http://hits.dwyl.io/DeveloperNeb101/{project})
 
-# NoFallDamage
-A great, simple but yet very useful plugin to prevent player's from taking damage when they jump from a high area.
 
-## How to Install?
-Just install the .zip file, upload it to your plugins folder, unzip it then restart server. It's that easy!
+Remove the fall damage effect from your world
+
+### How to use?
+ 1. Download the plugin
+ 2. Place plugin in the plugins folder
+ 3. Restart the server
+
+Enjoy!!
 
 Also this plugin will be constantly updated API wise, if you have any inquires please contact me via discord
 [DBN]neb16#2745
-
-And feel free to join my Discord Community:
-
-https://discord.gg/rErk6fq
-
-
 
