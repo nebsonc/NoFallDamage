@@ -4,4 +4,6 @@ branches:
 projects:
   NoFallDamage:
     path: ""
+    model: default
+    icon: nofalldamage.jpg
 ...
