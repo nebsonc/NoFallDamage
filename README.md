@@ -15,5 +15,5 @@ Remove the fall damage effect from your world
 Enjoy!!
 
 Also this plugin will be constantly updated API wise, if you have any inquires please contact me via discord
-[DBN]neb16#6631
+Nebson#0001
 
