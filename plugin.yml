@@ -3,7 +3,7 @@ author: DeveloperNeb101
 version: "1.0"
 description: NoFallDamage Developed by DeveloperNeb101
 api:
-- 3.0.0
+- 4.0.0
 
 main: DeveloperNeb101\NoFallDamage\Main
 commands: []
